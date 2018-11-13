@@ -1,4 +1,4 @@
-# AtlasInc
+# Atlas Inc
 This is a repository for creating a new and exciting software for gaming experience and devices including gaming hardware, gaming console, tablets, laptops and desktop computers.  
 
 
