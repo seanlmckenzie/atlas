@@ -1,4 +1,4 @@
-# TandemAtlasInc
+# AtlasInc
 This is a repository for creating a new and exciting software for gaming experience and devices including gaming hardware, gaming console, tablets, laptops and desktop computers.  
 
 
@@ -13,10 +13,10 @@ This an introductory repository for the future and bringing a third console into
 
 
 We will first create the opening scene of the Tandem Atlas animated opening for the console. 
-Next we will create the console's hub in which people can edit there pictures, music, avatars, games, friends, etc. all within the scene of Tandem Atlas Inc. 
+Next we will create the console's hub in which people can edit there pictures, music, avatars, games, friends, etc. all within the scene of Atlas Inc. 
 
 
-Tandem Atlas Inc. 
+Atlas Inc. 
 
 
-Tandem Atlas
+Atlas
